@@ -1,0 +1,6 @@
+tup1 = (111, 222, 333, 444, 555)
+tup2 = ('aaa', 'bbb', 'ccc', 'ddd', '张三', 'wanger', 888, 000)
+tup3 = ('1', '2')
+max(tup3)
+tuple1 = ('Google', 'Runoob', 'Taobao')
+len(tuple1)
